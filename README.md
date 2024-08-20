@@ -4,7 +4,7 @@
   <a href="https://github.com/dev-arham">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=4E96FF&center=true&repeat=false&width=435&lines=Arham+Mustafa" alt="Arham Mustafa" /></a>
 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/dev-arham">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Computer+Scientist;Web+Developer;And;To+Be+Flutter+Developer&font=Fira%20Code&center=true&width=600&height=45&color=4e96ff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
